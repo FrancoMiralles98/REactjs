@@ -16,7 +16,7 @@ function Menu() {
             </Nav>
             <Nav className="ms-auto">
               <Nav.Link href="#link"><CarritoCompras/></Nav.Link>
-              <Navbar.Text>2</Navbar.Text>
+        
             </Nav>
           </Navbar.Collapse>
         </Container>
